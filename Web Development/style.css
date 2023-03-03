@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(66, 97, 117);
+    background-color:284B63;
 }
 .h1 {
 color: aliceblue;
@@ -10,4 +10,7 @@ text-align: center;
 text-decoration: underline;
 text-shadow: #fc0 1px 0 10px;
 
+}
+.paragraph {
+   color: 3C6E71;
 }
