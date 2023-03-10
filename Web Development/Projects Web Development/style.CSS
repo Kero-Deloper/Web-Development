@@ -3,19 +3,20 @@ body {
   background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027); 
   background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
   
-  );
 }
 .heading {
   
   font-size: 30px;
   font-weight: bold;
   text-decoration: underline;
+  color:fdfffc;
 
 }
 .paragraph {
  
   font-size: 25px;
   font-family: 'Times New Roman', Times, serif;
+  color: a0b3c1;
 }
 .image1 {
   width: 50em;
@@ -27,4 +28,11 @@ body {
   float: right;
   flex-wrap: wrap;
   border-radius: 3em;
+}
+.div1 {
+  position: absolute;
+   right: 0px; left: 80em;
+   border-block-end-color: rgb(170, 50, 220, .6);writing-mode: horizontal-tb;
+  color : white;
+  text-align: center;
 }
