@@ -30,9 +30,15 @@ body {
   border-radius: 3em;
 }
 .div1 {
-  position: absolute;
+  width: 18em;
+  height: 70em;
+  flex-wrap: wrap;
+    position: absolute;
    right: 0px; left: 80em;
-   border-block-end-color: rgb(170, 50, 220, .6);writing-mode: horizontal-tb;
+   background-color: #5f7985; opacity: 50%;
+   border: 1px solid white;
+   border-radius: 3em;
   color : white;
+  opacity: 100%;
   text-align: center;
 }
