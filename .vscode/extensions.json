@@ -3,6 +3,7 @@
     "davidanson.vscode-markdownlint",
     "esbenp.prettier-vscode",
     "ms-vscode.vscode-github-issue-notebooks",
-    "negokaz.live-server-preview"
+    "negokaz.live-server-preview",
+    "ms-vscode.notepadplusplus-keybindings"
   ]
 }

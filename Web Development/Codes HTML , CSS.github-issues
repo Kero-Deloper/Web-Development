@@ -1,7 +1,0 @@
-[
-  {
-    "kind": 1,
-    "language": "markdown",
-    "value": "Gradients Code\n\n background: #0F2027;  \n  background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027); \n  background: linear-gradient(to right, #2C5364, #203A43, #0F2027); "
-  }
-]
