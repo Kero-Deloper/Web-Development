@@ -31,13 +31,13 @@ body {
 }
 .div1 {
   width: 18em;
-  height: 70em;
+  height: 40em;
   flex-wrap: wrap;
     position: absolute;
    right: 0px; left: 80em;
-   background-color: #5f7985; opacity: 50%;
-   border: 1px solid white;
-   border-radius: 3em;
+   background-color: #0F2027; 
+     border: 0.75px solid white;
+   border-radius: 10px;
   color : white;
   opacity: 100%;
   text-align: center;
