@@ -1,0 +1,10 @@
+div1 {
+    width: 100px;
+    height: 150px;
+    background-color: rgb(16, 71, 143);
+    margin-top: 3px;
+    margin-bottom: 5px;
+    margin-right:5px;
+    margin-left: 5px;
+    padding: 3em;
+}
